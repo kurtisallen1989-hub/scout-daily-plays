@@ -1,1 +1,1 @@
-The Daily Scout page server.
+The Daily Scout page server!
