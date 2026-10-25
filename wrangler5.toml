@@ -1,0 +1,7 @@
+name = "scout-daily-plays"
+main = "worker5.js"
+compatibility_date = "2026-10-01"
+
+[[kv_namespaces]]
+binding = "PAGE_KV"
+id = "6a62d69cdab74739b61b9331b512ac84"
